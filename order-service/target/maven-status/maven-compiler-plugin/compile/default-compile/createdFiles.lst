@@ -1,0 +1,11 @@
+io/seata/samples/order/dao/SoMasterMapper.class
+io/seata/samples/order/BaseController.class
+io/seata/samples/order/entity/SoMaster.class
+io/seata/samples/order/config/RestTemplateConfig.class
+io/seata/samples/order/config/DataSourceConfig.class
+io/seata/samples/order/service/SoService.class
+io/seata/samples/order/dao/SoItemMapper.class
+io/seata/samples/order/SpringbootMybatisOrderApplication.class
+io/seata/samples/order/controller/SoController.class
+io/seata/samples/order/StandResponseBuilder.class
+io/seata/samples/order/entity/SoItem.class

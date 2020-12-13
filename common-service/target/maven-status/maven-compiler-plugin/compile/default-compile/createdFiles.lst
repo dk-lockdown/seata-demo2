@@ -1,0 +1,8 @@
+io/seata/samples/common/SnowflakeIdGenerator.class
+io/seata/samples/common/filter/SeataFilter.class
+io/seata/samples/common/exception/BusinessException.class
+io/seata/samples/common/interceptor/SeataRestTemplateInterceptor.class
+io/seata/samples/common/baseentity/StandResponse.class
+io/seata/samples/common/SeataProperties.class
+io/seata/samples/common/config/SeataRestTemplateAutoConfiguration.class
+io/seata/samples/common/exception/GlobalExceptionHandler.class
