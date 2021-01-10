@@ -25,7 +25,7 @@ seata:
       lock:
         retry-interval: 10
         retry-times: 30
-        retry-policy-branch-rollback-on-conflict: true
+        retry-policy-branch-rollback-on-conflict: false
     tm:
       commit-retry-count: 5
       rollback-retry-count: 5
